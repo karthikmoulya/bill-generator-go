@@ -1,0 +1,5 @@
+Bill breakdown: 
+vet stew:                 ...$6.99 
+pudding:                  ...$5.25 
+tip:                      ...$4 
+total:                    ...$16.24
